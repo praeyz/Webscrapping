@@ -1,2 +1,2 @@
 # Webscrapping
-Here is a repository of my web scrapping using beautiful soup
+Here is a repository of my web scrapping using BeautifulSoup
